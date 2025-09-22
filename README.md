@@ -16,5 +16,3 @@ This project predicts house prices based on features like area, bedrooms, bathro
 - Dataset file: `Housing.csv`
 - Contains numeric and categorical features related to houses.
 
-## Author
-- Your Name
